@@ -37,4 +37,4 @@ python student_management_csv.py
 ## Application Screenshot
 
 ![student-management-system-python-csv
-](student management.png)
+](stdscreenshot.png)
